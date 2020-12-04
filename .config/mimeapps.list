@@ -1,0 +1,12 @@
+[Added Associations]
+application/x-cd-image=gnome-disk-image-mounter.desktop;com.system76.Popsicle.desktop;
+image/gif=display-im6.q16.desktop;feh.desktop;
+video/mp4=vlc.desktop;
+image/jpeg=display-im6.q16.desktop;
+text/markdown=firefox.desktop;
+video/x-flv=vlc.desktop;
+image/png=display-im6.q16.desktop;
+
+[Default Applications]
+x-scheme-handler/etcher=balena-etcher-electron.desktop
+text/markdown=firefox.desktop
